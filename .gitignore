@@ -10,3 +10,6 @@ db.sqlite3
 
 # VS Code
 .vscode/
+
+# Hidden macOS system file
+.DS_Store
